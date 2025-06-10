@@ -1,2 +1,2 @@
-# XTREME
-This project is a Sports Store System developed using Assembly Language
+# Xtreme
+Xtreme is a Sports Store System developed using Assembly Language. It allows users to browse and purchase a variety of sports items. The system includes core features such as item selection, cart management, and checkout. Designed for a simple and fast shopping experience, Xtreme demonstrates how low-level programming can be used to create a basic retail system with functional user interaction.
